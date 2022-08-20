@@ -1,3 +1,6 @@
+diskpart
+list disk
+sel disk N (your disk number)
 clean
 convert gpt
 rem == 1. System partition =========================
